@@ -1,0 +1,6 @@
+{
+  "name": "Cutie Bits & Co. - Web to Print (WTP)",
+  "description": "Online Web to Print system for Cutie Bits & Co. featuring customer self-service print request upload, real-time print tracking, and an owner-exclusive Operator Desk with SMS passcode recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
